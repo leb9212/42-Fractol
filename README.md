@@ -21,3 +21,6 @@ Once launched, the following inputs are supported during the program.
 ### Images
 
 ![Mandelbrot](http://i.imgur.com/vLyfjll.png)
+![Julia](http://i.imgur.com/sCNXD87.png)
+![Burningship](http://i.imgur.com/snRLjgV.png)
+![AbsoluteJulia](http://i.imgur.com/FpiyCZY.png)
