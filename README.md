@@ -5,7 +5,7 @@
 Fractol
 
 ### Usage
-Fractol program takes command argument (M for Mandelbrot, J for Julia, BS for burningship, AJ for absoluet julia).
+Fractol program takes command argument (M for Mandelbrot, J for Julia, BS for burningship, AJ for absolute julia).
 
 Once launched, the following inputs are supported during the program.
 1. Translate the iamge with either mouse drag or arrow keys.
