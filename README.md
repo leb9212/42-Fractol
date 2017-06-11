@@ -4,6 +4,10 @@
 Fractol is a program to generate interactive fractals (Mandelbrot set, Julia set, and etc).
 It uses a very lightweight graphics library, minilibx, built on top of OpenGL as well as OpenCL for graphics acceleration.
 
+### System Requirements
+1. Mac OS X El Capitan Version 10.11.6
+2. OpenGL 3.*
+3. OpenCL 1.2 and OpenCL enabled Graphics Cards.
 
 ### Usage
 Fractol program takes command argument (M for Mandelbrot, J for Julia, BS for burningship, AJ for absolute julia).
