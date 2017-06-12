@@ -10,10 +10,10 @@ It uses a very lightweight graphics library, minilibx, built on top of OpenGL as
 3. OpenCL 1.2 and OpenCL enabled Graphics Cards.
 
 ### Usage
-Fractol program takes command argument (M for Mandelbrot, J for Julia, BS for burningship, AJ for absolute julia).
+Fractol program takes a command argument (M for Mandelbrot, J for Julia, BS for burningship, AJ for absolute julia).
 
 Once launched, the following inputs are supported during the program.
-1. Translate the iamge with either mouse drag or arrow keys.
+1. Translate the image with either mouse drag or arrow keys.
 2. Zoom in and out of the point with mouse scroll.
 3. Rotate the color palette with < > keys.
 4. Increase and decrease the number of iterations with + - keys.
